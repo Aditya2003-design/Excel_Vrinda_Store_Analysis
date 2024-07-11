@@ -1,4 +1,4 @@
-**Excel_Vrinda_Store_Analysis**
+**Vrinda_Store_Analysis**
 Data Cleaning, Data Processing, Data Analysis using Excel
 
 **Objective**
